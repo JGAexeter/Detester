@@ -1,12 +1,16 @@
-*.iml
-.gradle
-/local.properties
-/.idea/*
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-/buildSrc/.gradle/*
-.kotlin/
+# Accessibility Code
+.iml
+# gradle
+git-ignore:*
+// "local.properties",
+/*.gitignore*
+/*.idea*
+/*.DS_Store*
+/*build
+*/*captures
+*/*.externalNativeBuild*
+/*.cxx
+*local.properties
+*/buildSrc*
+*/*.gradle/*.kotlin/.*
+.
