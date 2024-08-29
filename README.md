@@ -1,1 +1,2 @@
 # Detester
+.gitignore*
