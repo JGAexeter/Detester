@@ -1,9 +1,15 @@
-Checking an old repository for when   I had been actively using my merchant account for auto repairs. There are a few things I would like to get involved with for new business ventures. 
-Just found some info for me to reference.
+"Idea"
+// Checking an old repository for 
+/  when I had been actively using my
+/  merchant account for auto
+/  repairs. There are a few things I 
+/  would like to get involved with
+/  for new business ventures
+/  Just found some info for me to 
+/  reference
+//
 
 .DS_Store
-
-# Xcode
 build/
 *.pbxuser
 !default.pbxuser
