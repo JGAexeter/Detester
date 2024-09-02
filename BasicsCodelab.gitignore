@@ -1,5 +1,6 @@
-*.iml
-.gradle
++AndroidComposer-
++Accessibility-Code-lab[*].iml-
+*.gradle
 /local.properties
 /.idea/*
 .DS_Store
