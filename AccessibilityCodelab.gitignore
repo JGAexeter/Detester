@@ -1,8 +1,8 @@
 # Accessibility Code
 .iml
 # gradle
-git-ignore:*
-// "local.properties",
+git*
+ "local.properties",
 /*.gitignore*
 /*.idea*
 /*.DS_Store*
