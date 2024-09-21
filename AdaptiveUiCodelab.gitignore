@@ -1,0 +1,18 @@
+
+.iml
+$ {Kotlin}
++kts
+# Android
+# Gradle
+-- *
+local.properties*
+.idea/
++.DS_Store-
+*build
+-captures
+-.externalNative-Build
+-.cxx
+*local.properties
+-buildSrc*/
+-.gradle*
+.kotlin/
